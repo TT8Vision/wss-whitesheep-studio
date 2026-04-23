@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 234 307">
+
+  <!-- Cream/ivory background -->
+  <rect width="234" height="307" fill="#E8DFD0"/>
+
+  <!-- Pink/rose arch — left tombstone shape -->
+  <path d="M6,52 A44,44 0 0,1 94,52 L94,200 L6,200 Z" fill="#C28880"/>
+
+  <!-- Burgundy/wine block — upper right -->
+  <rect x="97" y="6" width="130" height="88" fill="#5C2232"/>
+
+  <!-- Small dark hinge/bracket on burgundy -->
+  <rect x="156" y="20" width="30" height="16" rx="3" fill="#3A1020"/>
+
+  <!-- Dark green stripe band -->
+  <rect x="30" y="74" width="115" height="88" fill="#2B4E38"/>
+  <!-- Horizontal cream stripes -->
+  <rect x="30" y="79"  width="115" height="2.5" fill="#D8D0C0"/>
+  <rect x="30" y="85"  width="115" height="2.5" fill="#D8D0C0"/>
+  <rect x="30" y="91"  width="115" height="2.5" fill="#D8D0C0"/>
+  <rect x="30" y="97"  width="115" height="2.5" fill="#D8D0C0"/>
+  <rect x="30" y="103" width="115" height="2.5" fill="#D8D0C0"/>
+  <rect x="30" y="109" width="115" height="2.5" fill="#D8D0C0"/>
+  <rect x="30" y="115" width="115" height="2.5" fill="#D8D0C0"/>
+  <rect x="30" y="121" width="115" height="2.5" fill="#D8D0C0"/>
+  <rect x="30" y="127" width="115" height="2.5" fill="#D8D0C0"/>
+  <rect x="30" y="133" width="115" height="2.5" fill="#D8D0C0"/>
+  <rect x="30" y="139" width="115" height="2.5" fill="#D8D0C0"/>
+  <rect x="30" y="145" width="115" height="2.5" fill="#D8D0C0"/>
+  <rect x="30" y="151" width="115" height="2.5" fill="#D8D0C0"/>
+  <rect x="30" y="157" width="115" height="2.5" fill="#D8D0C0"/>
+
+  <!-- Grey-blue circle — center -->
+  <circle cx="100" cy="165" r="21" fill="#7A8FA2"/>
+
+  <!-- Dark indigo accent behind circle -->
+  <rect x="97" y="157" width="44" height="16" fill="#3A3860" opacity="0.75"/>
+  <circle cx="100" cy="165" r="21" fill="#7A8FA2"/>
+
+  <!-- Mustard/gold horizontal bar -->
+  <rect x="93" y="179" width="88" height="19" fill="#C49222"/>
+
+  <!-- Tan rope curve — organic element -->
+  <path d="M8,180 C28,176 44,192 60,212 C76,232 82,248 84,264"
+        stroke="#A87848" stroke-width="10" fill="none"
+        stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Navy block — bottom right -->
+  <rect x="91" y="240" width="140" height="62" fill="#1A2840"/>
+
+  <!-- Outer border -->
+  <rect x="1" y="1" width="232" height="305" fill="none" stroke="#C0B4A4" stroke-width="1.5"/>
+
+</svg>
